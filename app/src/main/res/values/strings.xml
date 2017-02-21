@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MVPRetrofitRxjavaSimple</string>
+    <string name="mvp_login">MVP登录</string>
+    <string name="retrofit">rxbus通讯</string>
+    <string name="rxjava">rxjava异步操作</string>
+    <string name="combine">retrofit rxjava结合使用</string>
+    <string name="press_again_exit_app">再按一次退出程序</string>
+</resources>
